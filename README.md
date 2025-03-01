@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @WenchengNie
 - 👀 I’m interested in animation and programming
-- 🌱 I’m currently learning C from cs50
-- 💞️ I’m looking to collaborate on ... still learning, available soon
+- 🏫 Grade 11 Student at Markville Secondary School 
 - 📫 How to reach me wenchengnie78@gmail.com
 
 <!---
